@@ -1,0 +1,208 @@
+{
+  "items": [
+    {
+      "description": "🏎️. The 1st Place Submission to AICity Challenge 2021 nlp re-id track (CVPR 2021 workshop) [code][paper]\n🚙: The 2nd Place Submission to AICity Challenge 2021 re-id track (CVPR 2021 workshop) [code]\n:red_car: The 1st Place Submission to AICity Challenge 2020 re-id track (CVPR 2020 workshop) [code] [paper]\n:helicopter: Drone-based building re-id (ACM Multimedia 2020) [code] [paper]\nGPU-based Fast Re-Ranking [code] [paper]",
+      "items": [],
+      "title": "Code"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Recent Papers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TransReID: Transformer-based Object Re-Identification (ICCV) paper",
+          "description": "code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-12T05:28:31Z",
+            "owner": "damo-cv",
+            "repo": "TransReID",
+            "stars": 1045
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Counterfactual Attention Learning for Fine-Grained Visual Categorization and Re-identification (ICCV) arXiv",
+          "description": "code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-05T09:04:47Z",
+            "owner": "raoyongming",
+            "repo": "CAL",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Heterogeneous Relational Complement for Vehicle Re-identification (ICCV) paper",
+          "description": "code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-10-10T05:44:19Z",
+            "owner": "iCVTEAM",
+            "repo": "HRCN",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PhD Learning: Learning With Pompeiu-Hausdorff Distances for Video-Based Vehicle Re-Identification (CVPR) paper",
+          "description": "code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-04-12T08:57:00Z",
+            "owner": "emdata-ailab",
+            "repo": "PhD-Learning",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "2021"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Simulating Content Consistent Vehicle Datasets with Attribute Descent (ECCV) pdf",
+          "description": "code [中文介绍]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-15T06:28:01Z",
+            "owner": "yorkeyao",
+            "repo": "VehicleX",
+            "stars": 168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Parsing-based View-aware Embedding Network for Vehicle Re-Identification (CVPR) paper",
+          "description": "code [中文介绍]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-09-11T12:58:23Z",
+            "owner": "silverbulletmdc",
+            "repo": "PVEN",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Beyond the Parts: Learning Multi-view Cross-part Correlation for Vehicle Re-identification (ACM MM) paper",
+          "description": "code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-10-11T02:55:08Z",
+            "owner": "lxc86739795",
+            "repo": "human_vehicle_parsing_platform",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Robust Re-Identification by Multiple Views Knowledge Distillation (ECCV) paper",
+          "description": "code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-03T21:27:35Z",
+            "owner": "aimagelab",
+            "repo": "VKD",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Orientation-aware Vehicle Re-identification with Semantics-guided Part Attention Network (ECCV) pdf",
+          "description": "code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-06-08T08:15:34Z",
+            "owner": "tsaishien-chen",
+            "repo": "SPAN",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Group-Group Loss-Based Global-Regional Feature Learning for Vehicle Re-Identification (TIP) paper",
+          "description": "code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-05-10T02:33:19Z",
+            "owner": "liu-xb",
+            "repo": "GGL",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "2020"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/knwng/awesome-vehicle-re-identification",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-07-28T09:34:09Z",
+            "owner": "knwng",
+            "repo": "awesome-vehicle-re-identification",
+            "stars": 421
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/bismex/Awesome-vehicle-re-identification",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-10-23T06:31:19Z",
+            "owner": "bismex",
+            "repo": "Awesome-vehicle-re-identification",
+            "stars": 163
+          }
+        }
+      ],
+      "title": "Reference"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T02:43:01.969Z",
+    "original_repository": "layumi/Vehicle_reID-Collection",
+    "original_repository_sha": "a8ba1201b8a6be9e244f0cdfbcd38dac9edcb244",
+    "enhanced_repository": "enhansome/enhansome-Vehicle_reID-Collection",
+    "enhanced_repository_description": null,
+    "title": "Awesome Vehicle Re-ID Collection with stars"
+  }
+}
