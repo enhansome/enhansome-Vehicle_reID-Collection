@@ -70,7 +70,7 @@ no ID lablled.
 
 9. VERI-Wild
 
-[project](https://github.com/PKU-IMRE/VERI-Wild) ⭐ 229 | 🐛 7 | 📅 2021-08-09
+[project](https://github.com/PKU-IMRE/VERI-Wild) ⭐ 230 | 🐛 7 | 📅 2021-08-09
 
 10. VRIC
     with various motion blur and resolution
@@ -145,7 +145,7 @@ no ID lablled.
 
 2. Parsing-based View-aware Embedding Network for Vehicle Re-Identification **(CVPR)**
    [paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Meng_Parsing-Based_View-Aware_Embedding_Network_for_Vehicle_Re-Identification_CVPR_2020_paper.html)
-   [code](https://github.com/silverbulletmdc/PVEN) ⭐ 112 | 🐛 37 | 🌐 Python | 📅 2022-09-11
+   [code](https://github.com/silverbulletmdc/PVEN) ⭐ 113 | 🐛 37 | 🌐 Python | 📅 2022-09-11
    [\[中文介绍\]](https://zhuanlan.zhihu.com/p/160877803)
 
 3. Beyond the Parts: Learning Multi-view Cross-part Correlation for Vehicle Re-identification **(ACM MM)**
@@ -296,4 +296,4 @@ no ID lablled.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
