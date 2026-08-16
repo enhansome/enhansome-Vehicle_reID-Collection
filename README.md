@@ -22,7 +22,7 @@ GPU-based Fast Re-Ranking [\[code\]](https://github.com/layumi/Person_reID_basel
 
 1. VeRi-776
 
-   [project](https://github.com/VehicleReId/VeRidataset) ⭐ 423 | 🐛 3 | 🌐 MATLAB | 📅 2022-07-07 [paper](https://link.springer.com/chapter/10.1007/978-3-319-46475-6_53)
+   [project](https://github.com/VehicleReId/VeRidataset) ⭐ 424 | 🐛 3 | 🌐 MATLAB | 📅 2022-07-07 [paper](https://link.springer.com/chapter/10.1007/978-3-319-46475-6_53)
 
 49,357 images of 776 vehicles from 20 cameras. Like Market-1501 protocol.
 
@@ -89,7 +89,7 @@ no ID lablled.
 
 1. TransReID: Transformer-based Object Re-Identification **(ICCV)**
    [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/He_TransReID_Transformer-Based_Object_Re-Identification_ICCV_2021_paper.pdf)
-   [code](https://github.com/damo-cv/TransReID) ⭐ 1,045 | 🐛 39 | 🌐 Python | 📅 2024-06-12
+   [code](https://github.com/damo-cv/TransReID) ⭐ 1,044 | 🐛 39 | 🌐 Python | 📅 2024-06-12
 
 2. Counterfactual Attention Learning for Fine-Grained Visual Categorization and Re-identification **(ICCV)**
    [arXiv](https://arxiv.org/abs/2108.08728)
@@ -296,4 +296,4 @@ no ID lablled.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
