@@ -24,7 +24,7 @@
             "last_commit": "2024-06-12T05:28:31Z",
             "owner": "damo-cv",
             "repo": "TransReID",
-            "stars": 1045
+            "stars": 1046
           }
         },
         {
@@ -198,7 +198,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T01:53:02.567Z",
+    "last_updated": "2026-08-18T01:48:38.726Z",
     "original_repository": "layumi/Vehicle_reID-Collection",
     "original_repository_sha": "a8ba1201b8a6be9e244f0cdfbcd38dac9edcb244",
     "enhanced_repository": "enhansome/enhansome-Vehicle_reID-Collection",
