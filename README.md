@@ -16,13 +16,13 @@ Priorities are given to papers whose codes are published.
 
 :helicopter:  Drone-based building re-id (ACM Multimedia 2020) [\[code\]](https://github.com/layumi/University1652-Baseline) ⭐ 673 | 🐛 34 | 🌐 Python | 📅 2026-08-10  [\[paper\]](https://arxiv.org/abs/2002.12186)
 
-GPU-based Fast Re-Ranking [\[code\]](https://github.com/layumi/Person_reID_baseline_pytorch/tree/master/GPU-Re-Ranking) ⭐ 4,445 | 🐛 172 | 🌐 Python | 📅 2026-07-18 [\[paper\]](https://arxiv.org/abs/2012.07620v2)
+GPU-based Fast Re-Ranking [\[code\]](https://github.com/layumi/Person_reID_baseline_pytorch/tree/master/GPU-Re-Ranking) ⭐ 4,446 | 🐛 172 | 🌐 Python | 📅 2026-07-18 [\[paper\]](https://arxiv.org/abs/2012.07620v2)
 
 ## Dataset
 
 1. VeRi-776
 
-   [project](https://github.com/VehicleReId/VeRidataset) ⭐ 424 | 🐛 3 | 🌐 MATLAB | 📅 2022-07-07 [paper](https://link.springer.com/chapter/10.1007/978-3-319-46475-6_53)
+   [project](https://github.com/VehicleReId/VeRidataset) ⭐ 425 | 🐛 3 | 🌐 MATLAB | 📅 2022-07-07 [paper](https://link.springer.com/chapter/10.1007/978-3-319-46475-6_53)
 
 49,357 images of 776 vehicles from 20 cameras. Like Market-1501 protocol.
 
@@ -150,7 +150,7 @@ no ID lablled.
 
 3. Beyond the Parts: Learning Multi-view Cross-part Correlation for Vehicle Re-identification **(ACM MM)**
    [paper](http://xinchenliu.com/papers/2020_ACMMM_PCRNet.pdf)
-   [code](https://github.com/lxc86739795/parsing_platform) ⭐ 96 | 🐛 2 | 🌐 Python | 📅 2021-10-11
+   [code](https://github.com/lxc86739795/parsing_platform) ⭐ 95 | 🐛 2 | 🌐 Python | 📅 2021-10-11
 
 4. Robust Re-Identification by Multiple Views Knowledge Distillation **(ECCV)** [paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/996_ECCV_2020_paper.php)
    [code](https://github.com/aimagelab/VKD) ⭐ 75 | 🐛 4 | 🌐 Python | 📅 2023-10-03
@@ -292,8 +292,8 @@ no ID lablled.
 ### Reference
 
 * <https://github.com/knwng/awesome-vehicle-re-identification> ⭐ 421 | 🐛 3 | 📅 2019-07-28
-* <https://github.com/bismex/Awesome-vehicle-re-identification> ⭐ 163 | 🐛 0 | 📅 2021-10-23
+* <https://github.com/bismex/Awesome-vehicle-re-identification> ⭐ 162 | 🐛 0 | 📅 2021-10-23
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
