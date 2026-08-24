@@ -4,6 +4,123 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "🏎️. The 1st Place Submission to AICity Challenge 2021 nlp re-id track (CVPR 2021 workshop) [code]",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 359365646,
+            "language": "Python",
+            "last_commit": "2021-04-28T14:53:02Z",
+            "owner": "ShuaiBai623",
+            "repo": "AIC2021-T5-CLV",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🚙: The 2nd Place Submission to AICity Challenge 2021 re-id track (CVPR 2021 workshop) [code]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 359371824,
+            "language": "Python",
+            "last_commit": "2022-05-03T09:15:46Z",
+            "owner": "Xuanmeng-Zhang",
+            "repo": "AICITY2021-Track2",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":red_car: The 1st Place Submission to AICity Challenge 2020 re-id track (CVPR 2020 workshop) [code]",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 257534876,
+            "language": "Python",
+            "last_commit": "2024-09-01T12:50:07Z",
+            "owner": "layumi",
+            "repo": "AICIty-reID-2020",
+            "stars": 463
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":helicopter: Drone-based building re-id (ACM Multimedia 2020) [code]",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 219441774,
+            "language": "Python",
+            "last_commit": "2026-08-10T04:53:19Z",
+            "owner": "layumi",
+            "repo": "University1652-Baseline",
+            "stars": 673
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GPU-based Fast Re-Ranking [code]",
+          "description": "[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 115712649,
+            "language": "Python",
+            "last_commit": "2026-07-18T07:34:37Z",
+            "owner": "layumi",
+            "repo": "Person_reID_baseline_pytorch",
+            "stars": 4446
+          }
+        }
+      ],
+      "title": "Code"
+    },
+    {
+      "description": "49,357 images of 776 vehicles from 20 cameras. Like Market-1501 protocol.\nThe VeRi dataset is divided into a training subset containing 37,781 images of 576 subjects and a testing subset with 13,257 images of 200 subjects.then a query set containing 1,678 images of 200 subjects and a gallery including 11,579 image of 200 subjects are finally obtained.\n221,763 images of 2,627 vehicles. Only two camera views??\nwith attribute.\n47,123 images from two cameras & lablled on pair.\nno ID lablled.\n136,726 + 27,618 images of 1,716 cars with attributes. After crop, 136,713.\n16,185 images of 196 classes.\nproject\n60,430 images of 5,622 vehicle identities captured by 60 different cameras",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "VeRi-776",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 60492985,
+            "language": "MATLAB",
+            "last_commit": "2022-07-07T06:53:15Z",
+            "owner": "JDAI-CV",
+            "repo": "VeRidataset",
+            "stars": 425
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "project",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 179515730,
+            "language": null,
+            "last_commit": "2021-08-09T08:03:32Z",
+            "owner": "PKU-IMRE",
+            "repo": "VERI-Wild",
+            "stars": 230
+          }
+        }
+      ],
+      "title": "Dataset"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "children": [
             {
               "node_type": "item",
@@ -209,7 +326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T01:55:38.236Z",
+    "last_updated": "2026-08-24T14:22:47.284Z",
     "original_repository": "layumi/Vehicle_reID-Collection",
     "original_repository_id": 159405204,
     "original_repository_sha": "a8ba1201b8a6be9e244f0cdfbcd38dac9edcb244",
