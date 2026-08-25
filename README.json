@@ -101,7 +101,7 @@
         },
         {
           "node_type": "item",
-          "title": "project",
+          "title": "PKU-IMRE/VERI-Wild",
           "description": null,
           "children": [],
           "repo_info": {
@@ -288,7 +288,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/knwng/awesome-vehicle-re-identification",
+              "title": "knwng/awesome-vehicle-re-identification",
               "description": null,
               "children": [],
               "repo_info": {
@@ -303,7 +303,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/bismex/Awesome-vehicle-re-identification",
+              "title": "bismex/Awesome-vehicle-re-identification",
               "description": null,
               "children": [],
               "repo_info": {
@@ -326,7 +326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T01:50:10.721Z",
+    "last_updated": "2026-08-25T06:17:49.808Z",
     "original_repository": "layumi/Vehicle_reID-Collection",
     "original_repository_id": 159405204,
     "original_repository_sha": "a8ba1201b8a6be9e244f0cdfbcd38dac9edcb244",
