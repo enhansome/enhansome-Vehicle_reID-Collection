@@ -326,9 +326,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T09:38:51.016Z",
-    "original_repository": "layumi/Vehicle_reID-Collection",
-    "original_repository_id": 159405204,
+    "last_updated": "2026-08-27T12:11:37.602Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 159405204,
+      "language": null,
+      "last_commit": "2025-03-13T04:53:17Z",
+      "owner": "layumi",
+      "repo": "Vehicle_reID-Collection",
+      "stars": 513
+    },
     "original_repository_sha": "a8ba1201b8a6be9e244f0cdfbcd38dac9edcb244",
     "enhanced_repository": "enhansome/enhansome-Vehicle_reID-Collection",
     "enhanced_repository_description": null,
