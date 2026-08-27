@@ -75,7 +75,7 @@
             "last_commit": "2026-07-18T07:34:37Z",
             "owner": "layumi",
             "repo": "Person_reID_baseline_pytorch",
-            "stars": 4446
+            "stars": 4447
           }
         }
       ],
@@ -326,7 +326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T01:56:29.135Z",
+    "last_updated": "2026-08-27T09:38:51.016Z",
     "original_repository": "layumi/Vehicle_reID-Collection",
     "original_repository_id": 159405204,
     "original_repository_sha": "a8ba1201b8a6be9e244f0cdfbcd38dac9edcb244",
