@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🏆 The 1st Place Submission to AICity Challenge 2021 Natural Language-Based Vehicle Retrieval Track (Alibaba-UTS submission)",
+            "homepage": null,
             "id": 359365646,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-04-28T14:53:02Z",
+            "open_issues": 1,
             "owner": "ShuaiBai623",
             "repo": "AIC2021-T5-CLV",
-            "stars": 94
+            "stars": 94,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:19:02.659Z"
         },
@@ -26,12 +31,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":fire:  The runner-up solution of AICITY Challenge Track2 (Vehicle Re-Identification) at CVPR 2021 Workshop.",
+            "homepage": null,
             "id": 359371824,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-05-03T09:15:46Z",
+            "open_issues": 1,
             "owner": "Xuanmeng-Zhang",
             "repo": "AICITY2021-Track2",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "aicitychallenge",
+              "vehicle-reid"
+            ]
           },
           "first_seen": "2026-08-28T11:19:02.659Z"
         },
@@ -42,12 +55,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":red_car:  The 1st Place Submission to AICity Challenge 2020 re-id track (Baidu-UTS submission)",
+            "homepage": null,
             "id": 257534876,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-09-01T12:50:07Z",
+            "open_issues": 40,
             "owner": "layumi",
             "repo": "AICIty-reID-2020",
-            "stars": 463
+            "stars": 463,
+            "topics": [
+              "aicity",
+              "cityflow",
+              "cvpr2020",
+              "paddlepaddle",
+              "pytorch",
+              "vehicle",
+              "vehicle-reid",
+              "veri-776"
+            ]
           },
           "first_seen": "2026-08-28T11:19:02.659Z"
         },
@@ -58,12 +85,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ACM Multimedia2020 University-1652: A Multi-view Multi-source Benchmark for Drone-based Geo-localization :helicopter: annotates 1652 buildings in 72 universities around the world.",
+            "homepage": "https://arxiv.org/abs/2002.12186",
             "id": 219441774,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-10T04:53:19Z",
+            "open_issues": 34,
             "owner": "layumi",
             "repo": "University1652-Baseline",
-            "stars": 673
+            "stars": 672,
+            "topics": [
+              "awesome-list",
+              "cross-view",
+              "cvact",
+              "cvusa",
+              "dataset",
+              "drone",
+              "gem-pooling",
+              "geo-localization",
+              "image-retrieval",
+              "multi-source-benchmark",
+              "place-recognition",
+              "pytorch",
+              "remote-sensing",
+              "satellite",
+              "uav"
+            ]
           },
           "first_seen": "2026-08-28T11:19:02.659Z"
         },
@@ -74,12 +122,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":bouncing_ball_person: Pytorch ReID: A tiny, friendly, strong pytorch implement of person re-id / vehicle re-id baseline. Tutorial 👉https://github.com/layumi/Person_reID_baseline_pytorch/tree/master/tutorial",
+            "homepage": "https://www.zdzheng.xyz",
             "id": 115712649,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-18T07:34:37Z",
+            "open_issues": 174,
             "owner": "layumi",
             "repo": "Person_reID_baseline_pytorch",
-            "stars": 4447
+            "stars": 4447,
+            "topics": [
+              "awesome-reid",
+              "baseline",
+              "circle-loss",
+              "cuhk-np",
+              "image-retrieval",
+              "image-search",
+              "market-1501",
+              "metric-learning",
+              "msmt17",
+              "object-reid",
+              "open-reid",
+              "person-reid",
+              "person-reidentification",
+              "pytorch",
+              "random-erasing",
+              "re-ranking",
+              "tutorial",
+              "vehicle-reid"
+            ]
           },
           "first_seen": "2026-08-28T11:19:02.659Z"
         }
@@ -96,12 +168,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the project page for veri dataset which is a large scale image dataset for vehicle re-identification in urban traffic surveillance.",
+            "homepage": null,
             "id": 60492985,
             "language": "MATLAB",
+            "license": null,
             "last_commit": "2022-07-07T06:53:15Z",
+            "open_issues": 3,
             "owner": "JDAI-CV",
             "repo": "VeRidataset",
-            "stars": 425
+            "stars": 425,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:19:02.659Z"
         },
@@ -112,12 +189,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Large-Scale Dataset for Vehicle Re-Identification in the Wild",
+            "homepage": null,
             "id": 179515730,
             "language": null,
+            "license": null,
             "last_commit": "2021-08-09T08:03:32Z",
+            "open_issues": 7,
             "owner": "PKU-IMRE",
             "repo": "VERI-Wild",
-            "stars": 230
+            "stars": 230,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:19:02.659Z"
         }
@@ -136,12 +218,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV-2021] TransReID: Transformer-based Object Re-Identification",
+                "homepage": null,
                 "id": 351802749,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-06-12T05:28:31Z",
+                "open_issues": 39,
                 "owner": "damo-cv",
                 "repo": "TransReID",
-                "stars": 1048
+                "stars": 1048,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:19:02.659Z"
             },
@@ -152,12 +239,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2021] Counterfactual Attention Learning for Fine-Grained Visual Categorization and Re-identification",
+                "homepage": null,
                 "id": 397947436,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-01-05T09:04:47Z",
+                "open_issues": 9,
                 "owner": "raoyongming",
                 "repo": "CAL",
-                "stars": 159
+                "stars": 159,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:19:02.659Z"
             },
@@ -168,12 +260,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Heterogeneous Relational Complement for Vehicle Re-identification, ICCV 2021",
+                "homepage": null,
                 "id": 403965687,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-10-10T05:44:19Z",
+                "open_issues": 3,
                 "owner": "iCVTEAM",
                 "repo": "HRCN",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "re-identification",
+                  "vehicle"
+                ]
               },
               "first_seen": "2026-08-28T11:19:02.659Z"
             },
@@ -184,12 +284,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jianan Zhao, Fengliang Qi, GuangYu Ren, Lin Xu*. PhD Learning: Learning with Pompeiu-hausdorff Distances for Video-based Person Re-Identification. IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2021.",
+                "homepage": null,
                 "id": 350635404,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2021-04-12T08:57:00Z",
+                "open_issues": 2,
                 "owner": "emdata-ailab",
                 "repo": "PhD-Learning",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "pompeiu-hausdorff-distances",
+                  "video-vehicle"
+                ]
               },
               "first_seen": "2026-08-28T11:19:02.659Z"
             }
@@ -207,12 +315,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "VehicleX: Simulating Content Consistent Vehicle Datasets with Attribute Descent (ECCV 2020, TPAMI 2023)",
+                "homepage": null,
                 "id": 227411112,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-11-15T06:28:01Z",
+                "open_issues": 8,
                 "owner": "yorkeyao",
                 "repo": "VehicleX",
-                "stars": 168
+                "stars": 168,
+                "topics": [
+                  "cityflow",
+                  "re-identification",
+                  "reid",
+                  "unity",
+                  "vehicle-reid",
+                  "vehicle-reidentification",
+                  "vehicle-search"
+                ]
               },
               "first_seen": "2026-08-28T11:19:02.659Z"
             },
@@ -223,12 +344,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Parsing based vehicle ReID",
+                "homepage": null,
                 "id": 248420426,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-09-11T12:58:23Z",
+                "open_issues": 37,
                 "owner": "silverbulletmdc",
                 "repo": "PVEN",
-                "stars": 113
+                "stars": 113,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:19:02.659Z"
             },
@@ -239,12 +365,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A pytorch codebase for human parsing and vehicle parsing ",
+                "homepage": null,
                 "id": 316122577,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-10-11T02:55:08Z",
+                "open_issues": 2,
                 "owner": "lxc86739795",
                 "repo": "human_vehicle_parsing_platform",
-                "stars": 95
+                "stars": 95,
+                "topics": [
+                  "codebase",
+                  "human",
+                  "parsing",
+                  "person",
+                  "pytorch",
+                  "segmentation",
+                  "vehicle",
+                  "vehicleid",
+                  "veri-wild",
+                  "veri776"
+                ]
               },
               "first_seen": "2026-08-28T11:19:02.659Z"
             },
@@ -255,12 +397,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch code for ECCV 2020 paper: \"Robust Re-Identification by Multiple Views Knowledge Distillation\"",
+                "homepage": null,
                 "id": 277597256,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-10-03T21:27:35Z",
+                "open_issues": 4,
                 "owner": "aimagelab",
                 "repo": "VKD",
-                "stars": 75
+                "stars": 75,
+                "topics": [
+                  "deep-learning",
+                  "eccv-2020",
+                  "knowledge-distillation",
+                  "re-id"
+                ]
               },
               "first_seen": "2026-08-28T11:19:02.659Z"
             },
@@ -271,12 +423,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Semantics-guided Part Attention Network (ECCV 2020 Oral)",
+                "homepage": "http://media.ee.ntu.edu.tw/research/SPAN/",
                 "id": 285602973,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-06-08T08:15:34Z",
+                "open_issues": 3,
                 "owner": "tsaishien-chen",
                 "repo": "SPAN",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "computer-vision",
+                  "eccv2020",
+                  "pytorch-implementation",
+                  "span",
+                  "vehicle-reidentification",
+                  "veri-776"
+                ]
               },
               "first_seen": "2026-08-28T11:19:02.659Z"
             },
@@ -287,12 +451,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Group-Group Loss Based Global-Regional Feature Learning for Vehicle Re-Identification",
+                "homepage": null,
                 "id": 215953760,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2022-05-10T02:33:19Z",
+                "open_issues": 0,
                 "owner": "liu-xb",
                 "repo": "GGL",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:19:02.659Z"
             }
@@ -310,12 +479,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "collection of dataset&paper&code on Vehicle Re-Identification",
+                "homepage": null,
                 "id": 112817394,
                 "language": null,
+                "license": null,
                 "last_commit": "2019-07-28T09:34:09Z",
+                "open_issues": 3,
                 "owner": "knwng",
                 "repo": "awesome-vehicle-re-identification",
-                "stars": 421
+                "stars": 421,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:19:02.659Z"
             },
@@ -326,12 +500,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Awesome Vehicle Re-identification",
+                "homepage": null,
                 "id": 249192342,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-10-23T06:31:19Z",
+                "open_issues": 0,
                 "owner": "bismex",
                 "repo": "Awesome-vehicle-re-identification",
-                "stars": 162
+                "stars": 162,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "awesome-reid",
+                  "identification",
+                  "re-id",
+                  "reid",
+                  "reidentification",
+                  "vehicle",
+                  "vehicle-re-identification",
+                  "vehicle-reid",
+                  "vehicle-reidentification"
+                ]
               },
               "first_seen": "2026-08-28T11:19:02.659Z"
             }
@@ -345,15 +536,32 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T11:19:02.659Z",
+    "last_updated": "2026-08-29T04:41:09.869Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":red_car: the collection of vehicle re-ID papers, datasets. :red_car:",
+      "homepage": null,
       "id": 159405204,
       "language": null,
+      "license": null,
       "last_commit": "2025-03-13T04:53:17Z",
+      "open_issues": 2,
       "owner": "layumi",
       "repo": "Vehicle_reID-Collection",
-      "stars": 513
+      "stars": 513,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "cvpr-workshop",
+        "dataset",
+        "deep-learning",
+        "paper",
+        "pku-vehicle",
+        "ve-ri",
+        "vehicle",
+        "vehicle-reid",
+        "veri776"
+      ]
     },
     "original_repository_sha": "a8ba1201b8a6be9e244f0cdfbcd38dac9edcb244",
     "enhanced_repository": "enhansome/enhansome-Vehicle_reID-Collection",
