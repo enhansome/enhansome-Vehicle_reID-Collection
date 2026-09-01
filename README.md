@@ -14,9 +14,9 @@ Priorities are given to papers whose codes are published.
 :red\_car:  The 1st Place Submission to AICity Challenge 2020 re-id track (CVPR 2020 workshop) [\[code\]](https://github.com/layumi/AICIty-reID-2020) ⭐ 463 | 🐛 40 | 🌐 Python | 📅 2024-09-01
 [\[paper\]](https://github.com/layumi/AICIty-reID-2020/blob/master/paper.pdf) ⭐ 463 | 🐛 40 | 🌐 Python | 📅 2024-09-01
 
-:helicopter:  Drone-based building re-id (ACM Multimedia 2020) [\[code\]](https://github.com/layumi/University1652-Baseline) ⭐ 673 | 🐛 34 | 🌐 Python | 📅 2026-08-10  [\[paper\]](https://arxiv.org/abs/2002.12186)
+:helicopter:  Drone-based building re-id (ACM Multimedia 2020) [\[code\]](https://github.com/layumi/University1652-Baseline) ⭐ 674 | 🐛 34 | 🌐 Python | 📅 2026-08-10  [\[paper\]](https://arxiv.org/abs/2002.12186)
 
-GPU-based Fast Re-Ranking [\[code\]](https://github.com/layumi/Person_reID_baseline_pytorch/tree/master/GPU-Re-Ranking) ⭐ 4,447 | 🐛 174 | 🌐 Python | 📅 2026-08-30 [\[paper\]](https://arxiv.org/abs/2012.07620v2)
+GPU-based Fast Re-Ranking [\[code\]](https://github.com/layumi/Person_reID_baseline_pytorch/tree/master/GPU-Re-Ranking) ⭐ 4,448 | 🐛 174 | 🌐 Python | 📅 2026-08-30 [\[paper\]](https://arxiv.org/abs/2012.07620v2)
 
 ## Dataset
 
@@ -89,7 +89,7 @@ no ID lablled.
 
 1. TransReID: Transformer-based Object Re-Identification **(ICCV)**
    [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/He_TransReID_Transformer-Based_Object_Re-Identification_ICCV_2021_paper.pdf)
-   [code](https://github.com/damo-cv/TransReID) ⭐ 1,048 | 🐛 39 | 🌐 Python | 📅 2024-06-12
+   [code](https://github.com/damo-cv/TransReID) ⭐ 1,049 | 🐛 39 | 🌐 Python | 📅 2024-06-12
 
 2. Counterfactual Attention Learning for Fine-Grained Visual Categorization and Re-identification **(ICCV)**
    [arXiv](https://arxiv.org/abs/2108.08728)
@@ -140,7 +140,7 @@ no ID lablled.
 
 1. Simulating Content Consistent Vehicle Datasets with Attribute Descent **(ECCV)**
    [pdf](https://link.springer.com/content/pdf/10.1007/978-3-030-58539-6_46.pdf)
-   [code](https://github.com/yorkeyao/VehicleX) ⭐ 168 | 🐛 8 | 🌐 Python | 📅 2023-11-15
+   [code](https://github.com/yorkeyao/VehicleX) ⭐ 169 | 🐛 8 | 🌐 Python | 📅 2023-11-15
    [\[中文介绍\]](https://zhuanlan.zhihu.com/p/198061566)
 
 2. Parsing-based View-aware Embedding Network for Vehicle Re-Identification **(CVPR)**
@@ -296,4 +296,4 @@ no ID lablled.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._

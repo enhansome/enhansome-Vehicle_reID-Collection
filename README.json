@@ -94,7 +94,7 @@
             "open_issues": 34,
             "owner": "layumi",
             "repo": "University1652-Baseline",
-            "stars": 673,
+            "stars": 674,
             "topics": [
               "awesome-list",
               "cross-view",
@@ -131,7 +131,7 @@
             "open_issues": 174,
             "owner": "layumi",
             "repo": "Person_reID_baseline_pytorch",
-            "stars": 4447,
+            "stars": 4448,
             "topics": [
               "awesome-reid",
               "baseline",
@@ -227,7 +227,7 @@
                 "open_issues": 39,
                 "owner": "damo-cv",
                 "repo": "TransReID",
-                "stars": 1048,
+                "stars": 1049,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:19:02.659Z"
@@ -324,7 +324,7 @@
                 "open_issues": 8,
                 "owner": "yorkeyao",
                 "repo": "VehicleX",
-                "stars": 168,
+                "stars": 169,
                 "topics": [
                   "cityflow",
                   "re-identification",
@@ -536,7 +536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T05:28:00.254Z",
+    "last_updated": "2026-09-01T05:02:07.345Z",
     "original_repository_info": {
       "archived": false,
       "description": ":red_car: the collection of vehicle re-ID papers, datasets. :red_car:",
