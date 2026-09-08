@@ -291,9 +291,9 @@ no ID lablled.
 
 ### Reference
 
-* <https://github.com/knwng/awesome-vehicle-re-identification> ⭐ 421 | 🐛 3 | 📅 2019-07-28
+* <https://github.com/knwng/awesome-vehicle-re-identification> ⭐ 420 | 🐛 3 | 📅 2019-07-28
 * <https://github.com/bismex/Awesome-vehicle-re-identification> ⭐ 162 | 🐛 0 | 📅 2021-10-23
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
