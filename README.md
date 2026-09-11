@@ -16,13 +16,13 @@ Priorities are given to papers whose codes are published.
 
 :helicopter:  Drone-based building re-id (ACM Multimedia 2020) [\[code\]](https://github.com/layumi/University1652-Baseline) ⭐ 679 | 🐛 34 | 🌐 Python | 📅 2026-08-10  [\[paper\]](https://arxiv.org/abs/2002.12186)
 
-GPU-based Fast Re-Ranking [\[code\]](https://github.com/layumi/Person_reID_baseline_pytorch/tree/master/GPU-Re-Ranking) ⭐ 4,445 | 🐛 174 | 🌐 Python | 📅 2026-08-30 [\[paper\]](https://arxiv.org/abs/2012.07620v2)
+GPU-based Fast Re-Ranking [\[code\]](https://github.com/layumi/Person_reID_baseline_pytorch/tree/master/GPU-Re-Ranking) ⭐ 4,446 | 🐛 174 | 🌐 Python | 📅 2026-08-30 [\[paper\]](https://arxiv.org/abs/2012.07620v2)
 
 ## Dataset
 
 1. VeRi-776
 
-   [project](https://github.com/VehicleReId/VeRidataset) ⭐ 424 | 🐛 3 | 🌐 MATLAB | 📅 2022-07-07 [paper](https://link.springer.com/chapter/10.1007/978-3-319-46475-6_53)
+   [project](https://github.com/VehicleReId/VeRidataset) ⭐ 425 | 🐛 3 | 🌐 MATLAB | 📅 2022-07-07 [paper](https://link.springer.com/chapter/10.1007/978-3-319-46475-6_53)
 
 49,357 images of 776 vehicles from 20 cameras. Like Market-1501 protocol.
 
@@ -70,7 +70,7 @@ no ID lablled.
 
 9. VERI-Wild
 
-[project](https://github.com/PKU-IMRE/VERI-Wild) ⭐ 230 | 🐛 7 | 📅 2021-08-09
+[project](https://github.com/PKU-IMRE/VERI-Wild) ⭐ 231 | 🐛 7 | 📅 2021-08-09
 
 10. VRIC
     with various motion blur and resolution
@@ -296,4 +296,4 @@ no ID lablled.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
