@@ -89,7 +89,7 @@ no ID lablled.
 
 1. TransReID: Transformer-based Object Re-Identification **(ICCV)**
    [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/He_TransReID_Transformer-Based_Object_Re-Identification_ICCV_2021_paper.pdf)
-   [code](https://github.com/damo-cv/TransReID) ⭐ 1,054 | 🐛 39 | 🌐 Python | 📅 2024-06-12
+   [code](https://github.com/damo-cv/TransReID) ⭐ 1,055 | 🐛 39 | 🌐 Python | 📅 2024-06-12
 
 2. Counterfactual Attention Learning for Fine-Grained Visual Categorization and Re-identification **(ICCV)**
    [arXiv](https://arxiv.org/abs/2108.08728)
@@ -291,9 +291,9 @@ no ID lablled.
 
 ### Reference
 
-* <https://github.com/knwng/awesome-vehicle-re-identification> ⭐ 419 | 🐛 3 | 📅 2019-07-28
+* <https://github.com/knwng/awesome-vehicle-re-identification> ⭐ 420 | 🐛 3 | 📅 2019-07-28
 * <https://github.com/bismex/Awesome-vehicle-re-identification> ⭐ 162 | 🐛 0 | 📅 2021-10-23
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
