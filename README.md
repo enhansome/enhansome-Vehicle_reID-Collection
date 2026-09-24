@@ -16,13 +16,13 @@ Priorities are given to papers whose codes are published.
 
 :helicopter:  Drone-based building re-id (ACM Multimedia 2020) [\[code\]](https://github.com/layumi/University1652-Baseline) ⭐ 685 | 🐛 34 | 🌐 Python | 📅 2026-08-10  [\[paper\]](https://arxiv.org/abs/2002.12186)
 
-GPU-based Fast Re-Ranking [\[code\]](https://github.com/layumi/Person_reID_baseline_pytorch/tree/master/GPU-Re-Ranking) ⭐ 4,446 | 🐛 174 | 🌐 Python | 📅 2026-08-30 [\[paper\]](https://arxiv.org/abs/2012.07620v2)
+GPU-based Fast Re-Ranking [\[code\]](https://github.com/layumi/Person_reID_baseline_pytorch/tree/master/GPU-Re-Ranking) ⭐ 4,447 | 🐛 174 | 🌐 Python | 📅 2026-08-30 [\[paper\]](https://arxiv.org/abs/2012.07620v2)
 
 ## Dataset
 
 1. VeRi-776
 
-   [project](https://github.com/VehicleReId/VeRidataset) ⭐ 425 | 🐛 3 | 🌐 MATLAB | 📅 2022-07-07 [paper](https://link.springer.com/chapter/10.1007/978-3-319-46475-6_53)
+   [project](https://github.com/VehicleReId/VeRidataset) ⭐ 426 | 🐛 3 | 🌐 MATLAB | 📅 2022-07-07 [paper](https://link.springer.com/chapter/10.1007/978-3-319-46475-6_53)
 
 49,357 images of 776 vehicles from 20 cameras. Like Market-1501 protocol.
 
@@ -296,4 +296,4 @@ no ID lablled.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
