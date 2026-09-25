@@ -16,7 +16,7 @@ Priorities are given to papers whose codes are published.
 
 :helicopter:  Drone-based building re-id (ACM Multimedia 2020) [\[code\]](https://github.com/layumi/University1652-Baseline) ⭐ 685 | 🐛 34 | 🌐 Python | 📅 2026-08-10  [\[paper\]](https://arxiv.org/abs/2002.12186)
 
-GPU-based Fast Re-Ranking [\[code\]](https://github.com/layumi/Person_reID_baseline_pytorch/tree/master/GPU-Re-Ranking) ⭐ 4,447 | 🐛 174 | 🌐 Python | 📅 2026-08-30 [\[paper\]](https://arxiv.org/abs/2012.07620v2)
+GPU-based Fast Re-Ranking [\[code\]](https://github.com/layumi/Person_reID_baseline_pytorch/tree/master/GPU-Re-Ranking) ⭐ 4,447 | 🐛 172 | 🌐 Python | 📅 2026-09-24 [\[paper\]](https://arxiv.org/abs/2012.07620v2)
 
 ## Dataset
 
@@ -296,4 +296,4 @@ no ID lablled.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._

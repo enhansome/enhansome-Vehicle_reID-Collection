@@ -127,8 +127,8 @@
             "id": 115712649,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-30T15:51:23Z",
-            "open_issues": 174,
+            "last_commit": "2026-09-24T04:49:56Z",
+            "open_issues": 172,
             "owner": "layumi",
             "repo": "Person_reID_baseline_pytorch",
             "stars": 4447,
@@ -536,7 +536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T04:42:50.830Z",
+    "last_updated": "2026-09-25T04:52:01.555Z",
     "original_repository_info": {
       "archived": false,
       "description": ":red_car: the collection of vehicle re-ID papers, datasets. :red_car:",
