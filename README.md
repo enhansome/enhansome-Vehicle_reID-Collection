@@ -7,14 +7,14 @@ Priorities are given to papers whose codes are published.
 
 ## Code
 
-🏎️. The 1st Place Submission to AICity Challenge 2021 nlp re-id track (CVPR 2021 workshop) [\[code\]](https://github.com/ShuaiBai623/AIC2021-T5-CLV) ⭐ 94 | 🐛 1 | 🌐 Python | 📅 2021-04-28[\[paper\]](https://github.com/layumi/NLP-AICity2021/blob/main/doc/CVPRW2021_NLP_AICity.pdf) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2021-08-14
+🏎️. The 1st Place Submission to AICity Challenge 2021 nlp re-id track (CVPR 2021 workshop) [\[code\]](https://github.com/ShuaiBai623/AIC2021-T5-CLV) ⭐ 92 | 🐛 1 | 🌐 Python | 📅 2021-04-28[\[paper\]](https://github.com/layumi/NLP-AICity2021/blob/main/doc/CVPRW2021_NLP_AICity.pdf) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2021-08-14
 
 🚙: The 2nd Place Submission to AICity Challenge 2021 re-id track (CVPR 2021 workshop) [\[code\]](https://github.com/Xuanmeng-Zhang/AICITY2021-Track2) ⭐ 20 | 🐛 1 | 🌐 Python | 📅 2022-05-03
 
 :red\_car:  The 1st Place Submission to AICity Challenge 2020 re-id track (CVPR 2020 workshop) [\[code\]](https://github.com/layumi/AICIty-reID-2020) ⭐ 464 | 🐛 40 | 🌐 Python | 📅 2024-09-01
 [\[paper\]](https://github.com/layumi/AICIty-reID-2020/blob/master/paper.pdf) ⭐ 464 | 🐛 40 | 🌐 Python | 📅 2024-09-01
 
-:helicopter:  Drone-based building re-id (ACM Multimedia 2020) [\[code\]](https://github.com/layumi/University1652-Baseline) ⭐ 685 | 🐛 35 | 🌐 Python | 📅 2026-08-10  [\[paper\]](https://arxiv.org/abs/2002.12186)
+:helicopter:  Drone-based building re-id (ACM Multimedia 2020) [\[code\]](https://github.com/layumi/University1652-Baseline) ⭐ 686 | 🐛 35 | 🌐 Python | 📅 2026-08-10  [\[paper\]](https://arxiv.org/abs/2002.12186)
 
 GPU-based Fast Re-Ranking [\[code\]](https://github.com/layumi/Person_reID_baseline_pytorch/tree/master/GPU-Re-Ranking) ⭐ 4,447 | 🐛 172 | 🌐 Python | 📅 2026-09-24 [\[paper\]](https://arxiv.org/abs/2012.07620v2)
 
@@ -296,4 +296,4 @@ no ID lablled.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
