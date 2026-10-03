@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "🏎️. The 1st Place Submission to AICity Challenge 2021 nlp re-id track (CVPR 2021 workshop) [code]",
-          "description": "[paper]",
+          "description": "ShuaiBai623/AIC2021-T5-CLV",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -27,7 +27,7 @@
         {
           "node_type": "item",
           "title": "🚙: The 2nd Place Submission to AICity Challenge 2021 re-id track (CVPR 2021 workshop) [code]",
-          "description": null,
+          "description": "Xuanmeng-Zhang/AICITY2021-Track2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -51,7 +51,7 @@
         {
           "node_type": "item",
           "title": ":red_car: The 1st Place Submission to AICity Challenge 2020 re-id track (CVPR 2020 workshop) [code]",
-          "description": "[paper]",
+          "description": "layumi/AICIty-reID-2020",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -81,7 +81,7 @@
         {
           "node_type": "item",
           "title": ":helicopter: Drone-based building re-id (ACM Multimedia 2020) [code]",
-          "description": "[paper]",
+          "description": "layumi/University1652-Baseline",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -118,7 +118,7 @@
         {
           "node_type": "item",
           "title": "GPU-based Fast Re-Ranking [code]",
-          "description": "[paper]",
+          "description": "layumi/Person_reID_baseline_pytorch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -164,7 +164,7 @@
         {
           "node_type": "item",
           "title": "VeRi-776",
-          "description": null,
+          "description": "JDAI-CV/VeRidataset",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -185,7 +185,7 @@
         {
           "node_type": "item",
           "title": "PKU-IMRE/VERI-Wild",
-          "description": null,
+          "description": "PKU-IMRE/VERI-Wild",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -214,7 +214,7 @@
             {
               "node_type": "item",
               "title": "TransReID: Transformer-based Object Re-Identification (ICCV) paper",
-              "description": "code",
+              "description": "damo-cv/TransReID",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -235,7 +235,7 @@
             {
               "node_type": "item",
               "title": "Counterfactual Attention Learning for Fine-Grained Visual Categorization and Re-identification (ICCV) arXiv",
-              "description": "code",
+              "description": "raoyongming/CAL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -256,7 +256,7 @@
             {
               "node_type": "item",
               "title": "Heterogeneous Relational Complement for Vehicle Re-identification (ICCV) paper",
-              "description": "code",
+              "description": "iCVTEAM/HRCN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -280,7 +280,7 @@
             {
               "node_type": "item",
               "title": "PhD Learning: Learning With Pompeiu-Hausdorff Distances for Video-Based Vehicle Re-Identification (CVPR) paper",
-              "description": "code",
+              "description": "emdata-ailab/PhD-Learning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -361,7 +361,7 @@
             {
               "node_type": "item",
               "title": "Beyond the Parts: Learning Multi-view Cross-part Correlation for Vehicle Re-identification (ACM MM) paper",
-              "description": "code",
+              "description": "lxc86739795/human_vehicle_parsing_platform",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -393,7 +393,7 @@
             {
               "node_type": "item",
               "title": "Robust Re-Identification by Multiple Views Knowledge Distillation (ECCV) paper",
-              "description": "code",
+              "description": "aimagelab/VKD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -419,7 +419,7 @@
             {
               "node_type": "item",
               "title": "Orientation-aware Vehicle Re-identification with Semantics-guided Part Attention Network (ECCV) pdf",
-              "description": "code",
+              "description": "tsaishien-chen/SPAN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -447,7 +447,7 @@
             {
               "node_type": "item",
               "title": "Group-Group Loss-Based Global-Regional Feature Learning for Vehicle Re-Identification (TIP) paper",
-              "description": "code",
+              "description": "liu-xb/GGL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -475,7 +475,7 @@
             {
               "node_type": "item",
               "title": "knwng/awesome-vehicle-re-identification",
-              "description": null,
+              "description": "knwng/awesome-vehicle-re-identification",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -496,7 +496,7 @@
             {
               "node_type": "item",
               "title": "bismex/Awesome-vehicle-re-identification",
-              "description": null,
+              "description": "bismex/Awesome-vehicle-re-identification",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -536,7 +536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T05:30:00.362Z",
+    "last_updated": "2026-10-03T04:31:08.593Z",
     "original_repository_info": {
       "archived": false,
       "description": ":red_car: the collection of vehicle re-ID papers, datasets. :red_car:",
@@ -548,7 +548,7 @@
       "open_issues": 2,
       "owner": "layumi",
       "repo": "Vehicle_reID-Collection",
-      "stars": 513,
+      "stars": 514,
       "topics": [
         "awesome",
         "awesome-list",
