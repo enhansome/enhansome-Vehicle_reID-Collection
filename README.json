@@ -90,7 +90,7 @@
             "id": 219441774,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-10T04:53:19Z",
+            "last_commit": "2026-10-03T13:23:23Z",
             "open_issues": 35,
             "owner": "layumi",
             "repo": "University1652-Baseline",
@@ -536,7 +536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:17:42.957Z",
+    "last_updated": "2026-10-04T05:46:19.070Z",
     "original_repository_info": {
       "archived": false,
       "description": ":red_car: the collection of vehicle re-ID papers, datasets. :red_car:",
