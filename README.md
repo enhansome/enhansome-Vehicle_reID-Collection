@@ -14,7 +14,7 @@ Priorities are given to papers whose codes are published.
 :red\_car:  The 1st Place Submission to AICity Challenge 2020 re-id track (CVPR 2020 workshop) [\[code\]](https://github.com/layumi/AICIty-reID-2020) ⭐ 464 | 🐛 40 | 🌐 Python | 📅 2024-09-01
 [\[paper\]](https://github.com/layumi/AICIty-reID-2020/blob/master/paper.pdf) ⭐ 464 | 🐛 40 | 🌐 Python | 📅 2024-09-01
 
-:helicopter:  Drone-based building re-id (ACM Multimedia 2020) [\[code\]](https://github.com/layumi/University1652-Baseline) ⭐ 689 | 🐛 34 | 🌐 Python | 📅 2026-10-07  [\[paper\]](https://arxiv.org/abs/2002.12186)
+:helicopter:  Drone-based building re-id (ACM Multimedia 2020) [\[code\]](https://github.com/layumi/University1652-Baseline) ⭐ 690 | 🐛 34 | 🌐 Python | 📅 2026-10-07  [\[paper\]](https://arxiv.org/abs/2002.12186)
 
 GPU-based Fast Re-Ranking [\[code\]](https://github.com/layumi/Person_reID_baseline_pytorch/tree/master/GPU-Re-Ranking) ⭐ 4,450 | 🐛 172 | 🌐 Python | 📅 2026-10-08 [\[paper\]](https://arxiv.org/abs/2012.07620v2)
 
@@ -292,8 +292,8 @@ no ID lablled.
 ### Reference
 
 * <https://github.com/knwng/awesome-vehicle-re-identification> ⭐ 421 | 🐛 3 | 📅 2019-07-28
-* <https://github.com/bismex/Awesome-vehicle-re-identification> ⭐ 162 | 🐛 0 | 📅 2021-10-23
+* <https://github.com/bismex/Awesome-vehicle-re-identification> ⭐ 163 | 🐛 0 | 📅 2021-10-23
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
