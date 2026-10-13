@@ -94,7 +94,7 @@
             "open_issues": 34,
             "owner": "layumi",
             "repo": "University1652-Baseline",
-            "stars": 690,
+            "stars": 691,
             "topics": [
               "awesome-list",
               "cross-view",
@@ -536,7 +536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T05:50:08.848Z",
+    "last_updated": "2026-10-13T06:43:46.565Z",
     "original_repository_info": {
       "archived": false,
       "description": ":red_car: the collection of vehicle re-ID papers, datasets. :red_car:",
@@ -548,7 +548,7 @@
       "open_issues": 2,
       "owner": "layumi",
       "repo": "Vehicle_reID-Collection",
-      "stars": 515,
+      "stars": 516,
       "topics": [
         "awesome",
         "awesome-list",
