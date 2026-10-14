@@ -14,9 +14,9 @@ Priorities are given to papers whose codes are published.
 :red\_car:  The 1st Place Submission to AICity Challenge 2020 re-id track (CVPR 2020 workshop) [\[code\]](https://github.com/layumi/AICIty-reID-2020) ⭐ 464 | 🐛 40 | 🌐 Python | 📅 2024-09-01
 [\[paper\]](https://github.com/layumi/AICIty-reID-2020/blob/master/paper.pdf) ⭐ 464 | 🐛 40 | 🌐 Python | 📅 2024-09-01
 
-:helicopter:  Drone-based building re-id (ACM Multimedia 2020) [\[code\]](https://github.com/layumi/University1652-Baseline) ⭐ 691 | 🐛 34 | 🌐 Python | 📅 2026-10-07  [\[paper\]](https://arxiv.org/abs/2002.12186)
+:helicopter:  Drone-based building re-id (ACM Multimedia 2020) [\[code\]](https://github.com/layumi/University1652-Baseline) ⭐ 693 | 🐛 34 | 🌐 Python | 📅 2026-10-07  [\[paper\]](https://arxiv.org/abs/2002.12186)
 
-GPU-based Fast Re-Ranking [\[code\]](https://github.com/layumi/Person_reID_baseline_pytorch/tree/master/GPU-Re-Ranking) ⭐ 4,450 | 🐛 172 | 🌐 Python | 📅 2026-10-08 [\[paper\]](https://arxiv.org/abs/2012.07620v2)
+GPU-based Fast Re-Ranking [\[code\]](https://github.com/layumi/Person_reID_baseline_pytorch/tree/master/GPU-Re-Ranking) ⭐ 4,451 | 🐛 172 | 🌐 Python | 📅 2026-10-08 [\[paper\]](https://arxiv.org/abs/2012.07620v2)
 
 ## Dataset
 
@@ -70,7 +70,7 @@ no ID lablled.
 
 9. VERI-Wild
 
-[project](https://github.com/PKU-IMRE/VERI-Wild) ⭐ 231 | 🐛 7 | 📅 2021-08-09
+[project](https://github.com/PKU-IMRE/VERI-Wild) ⭐ 230 | 🐛 7 | 📅 2021-08-09
 
 10. VRIC
     with various motion blur and resolution
@@ -296,4 +296,4 @@ no ID lablled.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
