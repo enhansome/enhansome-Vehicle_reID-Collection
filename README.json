@@ -94,7 +94,7 @@
             "open_issues": 44,
             "owner": "layumi",
             "repo": "University1652-Baseline",
-            "stars": 695,
+            "stars": 696,
             "topics": [
               "awesome-list",
               "cross-view",
@@ -227,7 +227,7 @@
                 "open_issues": 39,
                 "owner": "damo-cv",
                 "repo": "TransReID",
-                "stars": 1055,
+                "stars": 1058,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:19:02.659Z"
@@ -269,7 +269,7 @@
                 "open_issues": 3,
                 "owner": "iCVTEAM",
                 "repo": "HRCN",
-                "stars": 23,
+                "stars": 24,
                 "topics": [
                   "re-identification",
                   "vehicle"
@@ -509,7 +509,7 @@
                 "open_issues": 0,
                 "owner": "bismex",
                 "repo": "Awesome-vehicle-re-identification",
-                "stars": 163,
+                "stars": 164,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -536,7 +536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T04:39:27.508Z",
+    "last_updated": "2026-10-22T04:36:33.018Z",
     "original_repository_info": {
       "archived": false,
       "description": ":red_car: the collection of vehicle re-ID papers, datasets. :red_car:",
