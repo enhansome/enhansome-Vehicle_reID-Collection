@@ -131,7 +131,7 @@
             "open_issues": 176,
             "owner": "layumi",
             "repo": "Person_reID_baseline_pytorch",
-            "stars": 4452,
+            "stars": 4453,
             "topics": [
               "awesome-reid",
               "baseline",
@@ -536,7 +536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T04:42:02.321Z",
+    "last_updated": "2026-10-24T04:30:04.366Z",
     "original_repository_info": {
       "archived": false,
       "description": ":red_car: the collection of vehicle re-ID papers, datasets. :red_car:",
