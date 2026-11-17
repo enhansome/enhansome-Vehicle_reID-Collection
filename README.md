@@ -89,7 +89,7 @@ no ID lablled.
 
 1. TransReID: Transformer-based Object Re-Identification **(ICCV)**
    [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/He_TransReID_Transformer-Based_Object_Re-Identification_ICCV_2021_paper.pdf)
-   [code](https://github.com/damo-cv/TransReID) ⭐ 1,068 | 🐛 39 | 🌐 Python | 📅 2024-06-12
+   [code](https://github.com/damo-cv/TransReID) ⭐ 1,070 | 🐛 39 | 🌐 Python | 📅 2024-06-12
 
 2. Counterfactual Attention Learning for Fine-Grained Visual Categorization and Re-identification **(ICCV)**
    [arXiv](https://arxiv.org/abs/2108.08728)
@@ -101,7 +101,7 @@ no ID lablled.
 
 4. PhD Learning: Learning With Pompeiu-Hausdorff Distances for Video-Based Vehicle Re-Identification **(CVPR)**
    [paper](http://openaccess.thecvf.com//content/CVPR2021/html/Zhao_PhD_Learning_Learning_With_Pompeiu-Hausdorff_Distances_for_Video-Based_Vehicle_Re-Identification_CVPR_2021_paper.html)
-   [code](https://github.com/emdata-ailab/PhD-Learning) ⭐ 17 | 🐛 2 | 🌐 Python | 📅 2021-04-12
+   [code](https://github.com/emdata-ailab/PhD-Learning) ⭐ 17 | 🐛 3 | 🌐 Python | 📅 2021-04-12
 
 5. Viewpoint and Scale Consistency Reinforcement for UAV Vehicle Re-Identification **(IJCV)**
    [pdf](https://link.springer.com/content/pdf/10.1007/s11263-020-01402-2.pdf)
@@ -145,7 +145,7 @@ no ID lablled.
 
 2. Parsing-based View-aware Embedding Network for Vehicle Re-Identification **(CVPR)**
    [paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Meng_Parsing-Based_View-Aware_Embedding_Network_for_Vehicle_Re-Identification_CVPR_2020_paper.html)
-   [code](https://github.com/silverbulletmdc/PVEN) ⭐ 113 | 🐛 37 | 🌐 Python | 📅 2022-09-11
+   [code](https://github.com/silverbulletmdc/PVEN) ⭐ 114 | 🐛 37 | 🌐 Python | 📅 2022-09-11
    [\[中文介绍\]](https://zhuanlan.zhihu.com/p/160877803)
 
 3. Beyond the Parts: Learning Multi-view Cross-part Correlation for Vehicle Re-identification **(ACM MM)**
@@ -296,4 +296,4 @@ no ID lablled.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._

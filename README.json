@@ -227,7 +227,7 @@
                 "open_issues": 39,
                 "owner": "damo-cv",
                 "repo": "TransReID",
-                "stars": 1068,
+                "stars": 1070,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:19:02.659Z"
@@ -290,7 +290,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2021-04-12T08:57:00Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "emdata-ailab",
                 "repo": "PhD-Learning",
                 "stars": 17,
@@ -353,7 +353,7 @@
                 "open_issues": 37,
                 "owner": "silverbulletmdc",
                 "repo": "PVEN",
-                "stars": 113,
+                "stars": 114,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:19:02.659Z"
@@ -536,7 +536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T06:19:01.205Z",
+    "last_updated": "2026-11-17T07:49:07.819Z",
     "original_repository_info": {
       "archived": false,
       "description": ":red_car: the collection of vehicle re-ID papers, datasets. :red_car:",
