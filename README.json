@@ -64,7 +64,7 @@
             "open_issues": 40,
             "owner": "layumi",
             "repo": "AICIty-reID-2020",
-            "stars": 465,
+            "stars": 464,
             "topics": [
               "aicity",
               "cityflow",
@@ -90,11 +90,11 @@
             "id": 219441774,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-07T10:46:23Z",
+            "last_commit": "2026-11-20T07:00:52Z",
             "open_issues": 44,
             "owner": "layumi",
             "repo": "University1652-Baseline",
-            "stars": 701,
+            "stars": 702,
             "topics": [
               "awesome-list",
               "cross-view",
@@ -131,7 +131,7 @@
             "open_issues": 176,
             "owner": "layumi",
             "repo": "Person_reID_baseline_pytorch",
-            "stars": 4460,
+            "stars": 4459,
             "topics": [
               "awesome-reid",
               "baseline",
@@ -177,7 +177,7 @@
             "open_issues": 3,
             "owner": "JDAI-CV",
             "repo": "VeRidataset",
-            "stars": 427,
+            "stars": 426,
             "topics": []
           },
           "first_seen": "2026-08-28T11:19:02.659Z"
@@ -227,7 +227,7 @@
                 "open_issues": 39,
                 "owner": "damo-cv",
                 "repo": "TransReID",
-                "stars": 1071,
+                "stars": 1070,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:19:02.659Z"
@@ -488,7 +488,7 @@
                 "open_issues": 3,
                 "owner": "knwng",
                 "repo": "awesome-vehicle-re-identification",
-                "stars": 422,
+                "stars": 421,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:19:02.659Z"
@@ -536,7 +536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T07:16:02.731Z",
+    "last_updated": "2026-11-20T07:05:34.113Z",
     "original_repository_info": {
       "archived": false,
       "description": ":red_car: the collection of vehicle re-ID papers, datasets. :red_car:",
@@ -548,7 +548,7 @@
       "open_issues": 2,
       "owner": "layumi",
       "repo": "Vehicle_reID-Collection",
-      "stars": 520,
+      "stars": 519,
       "topics": [
         "awesome",
         "awesome-list",
